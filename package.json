@@ -1,0 +1,19 @@
+{
+  "name": "friend_finder",
+  "version": "0.0.1",
+  "description": "friend_finder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisCode6/Friend-Finder"
+  },
+
+  "homepage": "https://github.com/ChrisCode6/Friend-Finder/blob/master/README.md",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0"
+  }
+}
